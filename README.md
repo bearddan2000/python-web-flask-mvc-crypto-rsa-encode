@@ -1,10 +1,12 @@
-# python-web-flask-mvc-rsa-encode
+# python-web-flask-mvc-rsa-encryption
 
 ## Description
 This is a simple login with
 encoding. A custom error
 page will be shown for unauthorized
 access.
+
+RSA should never be used to store passwords.
 
 ## Tech stack
 - python
